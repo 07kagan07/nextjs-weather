@@ -3,6 +3,17 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
-}
+};
 
-module.exports = nextConfig
+module.exports = {
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**.cdnydm.com",
+      },
+    ],
+  },
+};
+
+module.exports = nextConfig;

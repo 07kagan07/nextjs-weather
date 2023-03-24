@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "result": [
+    {
+      "max": "40,00",
+      "min": "20,00",
+      "hal": "İstanbul Hali",
+      "birim": "kutu",
+      "isim": "Akdeniz Yeşilliği"
+    },
+    {
+      "max": "2,00",
+      "min": "1,50",
+      "hal": "İstanbul Hali",
+      "birim": "kg",
+      "isim": "Armut"
+    }
+  ]
+}
