@@ -1,4 +1,4 @@
-You can try it instantly via https://nextjs-wheather.vercel.app/ link.
+You can try it live at https://nextjs-wheather.vercel.app/
 
 https://nextjs-wheather.vercel.app/ linki üzerinden anlık deneyebilirsiniz.
 
